@@ -1,4 +1,4 @@
-## Solution for Coursera R Programming 
+## Solution for the ProgammingAssignment2, just click on the file to check the solution.
 ## Programming Assignment 2: Lexical Scoping 
 ## Assignment: write a pair of functions that cache the inverse of a matrix.
 ##makeCacheMatrix: This function creates a special "matrix" #object that can cache its inverse.
